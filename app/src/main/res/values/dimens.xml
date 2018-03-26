@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textTwentyFive">25sp</dimen>
+    <dimen name="sizeEight">8dp</dimen>
+    <dimen name="sizeSixteen">16dp</dimen>
+</resources>
